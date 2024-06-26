@@ -4,9 +4,11 @@ This project is a responsive landing page for headphones, built using HTML, CSS,
 
 ## Demo
 
+Live demo: [Headphones Landing Page Demo]([https://example.com](https://adityabarad.github.io/Landing-Page-Headphones/))
+
+
 ![Preview](Preview.png)
 
-Live demo: [Headphones Landing Page Demo]([https://example.com](https://adityabarad.github.io/Landing-Page-Headphones/))
 
 ## Features
 
