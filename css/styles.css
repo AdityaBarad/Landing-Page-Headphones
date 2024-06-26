@@ -767,3 +767,6 @@ img {
     margin-top: 9rem;
   }
 }
+.review__name {
+    margin-bottom: 10px; /* Adjust the value as per your preference */
+}
